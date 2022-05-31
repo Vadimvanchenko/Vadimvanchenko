@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Vadim Ivanchenko
+### Hi there 👋, my name is Milivoj Ceranic
 #### I am Full Stack Web Engineer 
 ![I am Full Stack Web Engineer ](https://cdn.dribbble.com/users/673428/screenshots/6256511/chatbot-kiu.gif)
 
